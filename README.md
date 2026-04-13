@@ -30,12 +30,6 @@ This project presents an interactive Tableau dashboard that visualizes applicati
 2. Open it using Tableau Desktop or Tableau Public.
 3. Interact with filters to explore insights.
 
-## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here.)*
-
-## 🌐 Tableau Public (Coming Soon)
-The dashboard will be published on Tableau Public.
-
 ## 👩‍💻 Author
 **Lakshmi Priya Kota**  
 - GitHub: https://github.com/
